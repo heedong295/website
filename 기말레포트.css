@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Poor+Story&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=East+Sea+Dokdo&family=Poor+Story&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=East+Sea+Dokdo&family=Gaegu:wght@300&family=Poor+Story&display=swap');
+body {
+    background-color: rgb(0, 0, 0);
+}
+#hd {
+    background-image: url(농구사진.jpg);
+    padding: 180px;
+    text-align: center;
+    height: 200px;
+    
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+}
+#bb {
+    position: fixed;
+    right: 1550px;
+    bottom: 650px;
+}
+#bbs {
+    width: 500px;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#leftside {
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    font-family: 'Cute Font', cursive;
+    font-family: 'Poor Story', cursive;
+
+    
+}
+#leftside a {
+    float: left;
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+#rightside {
+    width: 300px;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+   
+}
+.container {
+    width: 1800px;
+    height: 1000px;
+}
+#line {
+    border-bottom: 4px solid;
+    position: relative;
+    right: 1550px;
+    top: 220px;
+}
+#line2 {
+    border-bottom: 4px solid;
+    position: relative;
+    right: 1550px;
+    top: 610px;
+}
+#login {
+    font-family: 'Cute Font', cursive;
+    font-family: 'Poor Story', cursive;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffffff;
+    position: relative;
+    left: 800px;
+    bottom: 150px;
+}
+.contents {
+    float: left;
+    height: 1000px;
+    width: 1000px;
+    background-color: #000000;
+    position: relative;
+    left: 150px;
+    text-align: center;
+    
+}
+.contents h1 {
+    font-family: 'East Sea Dokdo', cursive;
+}
+.contents h2 {
+    font-family: 'Gaegu', cursive;
+   color: #ffffff;
+}
+#hi {
+    position: relative;
+   top: 100px;
+    background-color: #ffffff;
+    
+}
